@@ -7,7 +7,7 @@ Developed for abc Crea - Oscar Eduardo Ochoa Velasco
 
 Simple Steps for work with this code:
 - Download the complete repository or .py file
-- Open and Execute the Lineal_Regression.py file on your favorite text editor and with Python 3 Installed
+- Open and Execute the Divide_Differences.py file on your favorite text editor and with Python 3 Installed
 - Enter the input values on these variables
   ![image](https://github.com/abcCrea/Divide-Differences/assets/144490810/035d68c0-9b50-4d93-af18-43657ae84b10)
 - Choose an option
