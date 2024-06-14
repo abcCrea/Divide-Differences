@@ -50,7 +50,7 @@ def Regressive(x,y,f,U):
 def Divide(x,y,f,U):
     print("Find the value of", U)
     for i in range(4):
-        print("Si ", x[i], " = ", y[i])
+        print("If ", x[i], " = ", y[i])
     f[0] = (y[1] - y[0]) / (x[1] - x[0])
     f[1] = (y[2] - y[1]) / (x[2] - x[1])
     f[2] = (y[3] - y[2]) / (x[3] - x[2])
@@ -67,7 +67,7 @@ def Lagrange(x,y,a,U):
     print("Lagrange Form")
     print("Find the value of", U)
     for i in range(4):
-        print("Si ", x[i], " = ", y[i])
+        print("If ", x[i], " = ", y[i])
     a[0] = ((U - x[1])*(U - x[2])*(U-x[3]) * y[0]) / ((x[0]-x[1])*(x[0]-x[2])*(x[0]-x[3]))
     a[1] = ((U - x[0])*(U - x[2])*(U-x[3]) * y[1]) / ((x[1]-x[0])*(x[1]-x[2])*(x[1]-x[3]))
     a[2] = ((U - x[0])*(U - x[1])*(U-x[3]) * y[2]) / ((x[2]-x[0])*(x[2]-x[1])*(x[2]-x[3]))
