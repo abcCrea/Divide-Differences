@@ -11,7 +11,7 @@ Simple Steps for work with this code:
 - Enter the input values on these variables
   ![image](https://github.com/abcCrea/Divide-Differences/assets/144490810/035d68c0-9b50-4d93-af18-43657ae84b10)
 - Choose an option
-  ![image](https://github.com/abcCrea/Divide-Differences/assets/144490810/fb76a7c6-0ad7-4c82-b9a4-f9c88c1720f5)
+  ![image](https://github.com/abcCrea/Divide-Differences/assets/144490810/d2d69a61-21e0-4612-9f1b-33fbf6336d01)
 
 
 
